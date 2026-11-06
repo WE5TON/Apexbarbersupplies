@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 110" role="img" aria-label="Cardboard shipping box with an Apex label">
+  <!-- isometric cardboard box -->
+  <polygon points="60,4 116,30 60,56 4,30" fill="#d9b98c"/>
+  <polygon points="4,30 60,56 60,106 4,80" fill="#c39e6c"/>
+  <polygon points="116,30 60,56 60,106 116,80" fill="#b28c5a"/>
+  <!-- tape -->
+  <polygon points="54,7 66,12.5 66,61.5 54,56" fill="#e8d3ae" opacity="0.9"/>
+  <!-- label -->
+  <rect x="72" y="58" width="30" height="18" rx="2" fill="#f5efe4" transform="skewY(24) translate(0,-46)"/>
+  <g transform="skewY(24) translate(0,-46)" fill="#9a8563">
+    <rect x="75" y="62" width="24" height="2" rx="1"/>
+    <rect x="75" y="66" width="18" height="2" rx="1"/>
+    <rect x="75" y="70" width="21" height="2" rx="1"/>
+  </g>
+</svg>
